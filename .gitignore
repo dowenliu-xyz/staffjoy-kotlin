@@ -1,0 +1,16 @@
+.*
+!.gitignore
+
+target/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Mac ###
+.DS_Store
+
+### Spring Dev Credentials ###
+config/*.yml
